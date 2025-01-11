@@ -281,14 +281,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate, SmartechDelegate, CLLocat
                 
             }
         
-            
-            
-            
-            //        else {
-            //            print("Invalid referral URL")
-            //
-            //        }
-           
+       
                         
         }
         task.resume()

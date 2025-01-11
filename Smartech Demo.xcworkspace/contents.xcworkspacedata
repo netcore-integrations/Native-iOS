@@ -2,12 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:GDT Indonesia.gpx">
-   </FileRef>
-   <FileRef
-      location = "group:My PG.gpx">
-   </FileRef>
-   <FileRef
       location = "group:Netcore BLR office.gpx">
    </FileRef>
    <FileRef
